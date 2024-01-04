@@ -1,6 +1,6 @@
 # YouTube-Data-Analytics
-Leveraged YouTube's Data API v3 to scrape data from 10 YouTube Channels using Python. The fetched data is stored in a MySQL Database. Developed a Power BI Dashboard to visualize data.
-Content Creator Analysis: Gain insights into a specific YouTube channel's performance, including video views, likes, and comments, to assess audience engagement and optimize content creation strategies.
+Leveraged YouTube's Data API v3 to scrape data from 10 YouTube Channels using Python. The fetched data is stored in a MySQL Database and performed exploratory data analysis using SQL. Developed a Power BI Dashboard to visualize data.
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
