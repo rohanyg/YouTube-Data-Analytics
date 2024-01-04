@@ -20,10 +20,6 @@ Content Creator Analysis: Gain insights into a specific YouTube channel's perfor
 ### Problem Statement
 The EdTech startup is struggling with low course enrollments and wants to improve it by targeted advertisement via YouTube channels. Understanding the potential reach and engagement metrics of YouTube collaborators is crucial for effective promotional strategies. This empowers the EdTech company to boost course enrollment, thereby recovering invested revenue into bootcamps and courses.
 
-### Data Source
-- Domain:
-Edtech
-
 ### Data Cleaning/Preparation
 
 - Data was scraped from youtube, data was clean and data is also from trusted source.
