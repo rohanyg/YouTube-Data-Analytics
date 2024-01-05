@@ -5,10 +5,11 @@ Leveraged YouTube's Data API v3 to scrape data from 10 YouTube Channels using Py
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
-- [Data Source](#data-source)
-- [Data Cleaning/Preparation](#data-cleaningpreparation)
-- [Live Dashboard](#live-dashboard)
-
+- [Data Gathering](#data-gathering)
+- [Data Cleaning](#data-cleaning)
+- [Data Analysis](#data-analysis)
+- [Data Visualization](#data-visualization)
+- [Act](#act)
   
 ### Project Overview
 1. Aim of this project is to perform the analysis on the data scraped from the youtube.
@@ -20,13 +21,29 @@ Leveraged YouTube's Data API v3 to scrape data from 10 YouTube Channels using Py
 ### Problem Statement
 The EdTech startup is struggling with low course enrollments and wants to improve it by targeted advertisement via YouTube channels. Understanding the potential reach and engagement metrics of YouTube collaborators is crucial for effective promotional strategies. This empowers the EdTech company to boost course enrollment, thereby recovering invested revenue into bootcamps and courses.
 
-### Data Cleaning/Preparation
+### Data Gathering
+- Data was scraped from youtube with help of YouTube's Data API v3 using Python. Data collected is appended to the mysql database.
+  
+### Data Cleaning
+- Validated the data understanding datapoints and checking range of values in each and every columns.
+- Data was clean as it is fetched from the youtube.
 
-- Data was scraped from youtube, data was clean and data is also from trusted source.
+### Data Analysis
+- Performed Exploratory Data Analysis on Youtubers Data using SQL answering the many questions.
+- Analyzed channel and video metrics to evaluate reach and engagement levels.
+- identified the popular video topics, keywords and tags
+- Compared multiple YouTube channels and identified right channel for marketing campaigns.
+  
+### Data Visualization:
+- Designed the Power BI dashboard the communicate the findings effectively .
+- Published this Dashboard to workspace in Power BI Service.
+  
+Live Power BI Dashboard :
+https://app.powerbi.com/groups/me/reports/92a337b9-9d70-4512-bad5-f36e80ba12ec/ReportSection?experience=power-bi
 
-### Live Dashboard:
-Power BI:
 
+### Act
+- Suggested the potential youtube collabarator with good engagement for promotional activities.
 
 
 
